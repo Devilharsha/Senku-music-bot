@@ -40,7 +40,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/senkumusicbot/deployment/require
 <p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
-<p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/SenkuStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -52,8 +52,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/senkumusicbot/deployment/require
 > By setting those two vars you can get logs of your heroku app, set var, edit var, delete vars , check dyno usage and update bot. 
 > Those two vars are not Mandatory! You can leave them blank too. 
     
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Devilharsha"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<h4>Click the button below to deploy senku on Heroku!</h4>    
+<p><a href="https://heroku.com/deploy?template=https://github.com/Devilharsha/Senku-music-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
@@ -80,15 +80,15 @@ shikhar@MacBook~ $ bash start
 
 ## Config Vars
 
-- Checkout All [Available Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/available-vars)
-- Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
-- Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
+- Checkout All [Available Vars](https://Devilharsha.gitbook.io/senku-music-bot/vars/available-vars)
+- Checkout Only [Mandatory Vars](https://Devilharsha.gitbook.io/senku-music-bot/vars/mandatory-vars)
+- Checkout Some [Configs](https://Devilharsha.gitbook.io/senku-music-bot/setup-config/config)
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/SENKUBOTS)
+- [Telegram Support Group](https://t.me/SENKUCHAT)
+- [Contact Owner](https://t.me/Devilharsha)
 
 
 ## License
@@ -104,3 +104,4 @@ Special thanks to these amazing projects/people which/who help power senku Music
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
+- [Yukki] ()
