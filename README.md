@@ -53,7 +53,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/senkumusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://vegetaxd.me/Yukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Devilharsha"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
@@ -75,7 +75,7 @@ shikhar@MacBook~ $ cp sample.env .env
 shikhar@MacBook~ $ bash start
 ```
 
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
+> Not Getting VPS Method? [Watch Tutorial](https://t.me/SENKUCHAT/2275)
 </details>
 
 ## Config Vars
@@ -97,7 +97,7 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power senku Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
