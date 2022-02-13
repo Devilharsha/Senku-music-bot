@@ -61,12 +61,12 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <summary><b>🔗 Deploy to VPS</b></summary>
 <br>
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://Devilharsha.gitbook.io/senku-music-bot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Devilharsha/Senku-music-bot
+shikhar@MacBook~ $ cd Senku-music-bot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
