@@ -104,4 +104,4 @@ Special thanks to these amazing projects/people which/who help power senku Music
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
-- [Yukki] ()
+- [Yukki] (https://github.com/NotReallyShikhar/YukkiMusicBot)
